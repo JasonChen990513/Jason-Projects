@@ -2,8 +2,9 @@
 
 # FYP Project
 
-Project Title:  Mobile Game Development for Kampar Tourism  
-Project Filed:  Mobile App, Augmented reality (AR)
+- **Project Title:**  Mobile Game Development for Kampar Tourism  
+- **Project Filed:**  Mobile App, Augmented reality (AR)
+- **Repository**: [Final year project](https://github.com/CZSheng/FYP)
 ## 📌 Project Overview
 This project aims to boost tourism in Kampar by developing an interactive mobile game that integrates AR (Augmented Reality), storytelling, and gamification. Using UTAR Kampar as a series of attraction spots, the game allows visitors to explore historical stories, engage in challenges, and receive rewards, creating a memorable and immersive touring experience.
 
